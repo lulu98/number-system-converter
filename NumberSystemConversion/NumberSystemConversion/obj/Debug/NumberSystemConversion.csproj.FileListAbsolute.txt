@@ -1,0 +1,10 @@
+C:\Projects\Visual Studio\NumberSystemConversion\NumberSystemConversion\bin\Debug\NumberSystemConversion.exe.config
+C:\Projects\Visual Studio\NumberSystemConversion\NumberSystemConversion\bin\Debug\NumberSystemConversion.exe
+C:\Projects\Visual Studio\NumberSystemConversion\NumberSystemConversion\bin\Debug\NumberSystemConversion.pdb
+C:\Projects\Visual Studio\NumberSystemConversion\NumberSystemConversion\obj\Debug\NumberSystemConversion.csprojAssemblyReference.cache
+C:\Projects\Visual Studio\NumberSystemConversion\NumberSystemConversion\obj\Debug\NumberSystemConversion.Form1.resources
+C:\Projects\Visual Studio\NumberSystemConversion\NumberSystemConversion\obj\Debug\NumberSystemConversion.Properties.Resources.resources
+C:\Projects\Visual Studio\NumberSystemConversion\NumberSystemConversion\obj\Debug\NumberSystemConversion.csproj.GenerateResource.cache
+C:\Projects\Visual Studio\NumberSystemConversion\NumberSystemConversion\obj\Debug\NumberSystemConversion.csproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\NumberSystemConversion\NumberSystemConversion\obj\Debug\NumberSystemConversion.exe
+C:\Projects\Visual Studio\NumberSystemConversion\NumberSystemConversion\obj\Debug\NumberSystemConversion.pdb
